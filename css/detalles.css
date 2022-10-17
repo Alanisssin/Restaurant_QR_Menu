@@ -1,0 +1,15 @@
+.categorias{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.badge{
+    width: auto;
+    height: 20px;
+    padding: 10px;
+    border: 2px solid green;
+    color: green;
+    margin-left: 10px;
+    border-radius:50px;
+}
